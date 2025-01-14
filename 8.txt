@@ -1,0 +1,4 @@
+__________is defined as the procedure of placing key informants to a continuum regarding their attitude towards a certain product or product line.|Scaling
+A _________scale is a figurative labelling scheme in which numbers serve as labels or tags in order to identify and classify objects.|Nominal
+_________scale is a scale where the numbers used to rank objects such as numerically equal distances on the scale demonstrate equal distances in the attribute being measured.|Interval
+__________scaling focuses on two objects which the respondents are asked to select one according to some criterion.|Paired comparison

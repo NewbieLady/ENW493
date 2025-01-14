@@ -1,0 +1,4 @@
+___________ sampling is a probability sample which is distinguished by the following processes: the original population is divided into two or more mutually exclusive and exhaustive subsets (e.g., males and females) and simple random samples of elements from two or more subsets are selected independently of each other.|Stratified
+Stratified sampling is a two-step approach where the population is divided into subpopulations or _________.|Strata
+Each element of the population should be allocated to one and only one _________stratum and no population elements should be omitted.|Stratum
+In _________ sampling the target population is initially divided to mutually exclusive and collectively exhaustive subpopulations.|Cluster
