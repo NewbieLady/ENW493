@@ -1,3 +1,4 @@
+_________ is defined as the process of identifying constructive associations, patterns and trends emerging from accumulated amounts of collected data stored in repositories, through the adoption of pattern recognition and statistical and mathematical approaches.|Data mining
 __________ refer to organisations which gather and sell pools of data and information which are developed to address information requirements and needs.|Syndicated sources
 __________ refer to organisations which gather and sell pools of data and information which are developed to address information requirements and needs.|Syndicated sources
 ____________focus on electronic devices which automatically record behaviour and are supplemented by a diary. Such data are used for creating media programmes on air time and developing viewer profiles.|Diary media panels
